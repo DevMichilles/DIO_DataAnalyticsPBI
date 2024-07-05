@@ -1,7 +1,6 @@
 
 # Criando um Dashboard Corporativo com Integração com MySQL e Azure
 
-<img src="https://drive.google.com/file/d/1KCLsC5imbIgVnRB8ajlEbVenZ34jlTaB/view?usp=sharing" alt="Dashboard">
 
 Este projeto pertence a  "Formação Power BI Analyst" da DIO.
 O objetivo é criar um banco de dados MySQL em um servidor externo e estabelecer uma conexão com o Power BI. 
