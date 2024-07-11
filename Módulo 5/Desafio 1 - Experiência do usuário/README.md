@@ -1,6 +1,6 @@
 # DIO Bootcamp Data Analytics com Power BI
 
-# Projeto de Modelagem e Transformação de Dados com DAX no Power BI
+# Atualizando Relatório Financeiro com Foco na Experiência do Usuário
 
 ## Descrição do Projeto
 
